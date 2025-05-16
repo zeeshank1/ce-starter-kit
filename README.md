@@ -1,4 +1,4 @@
-# ✨ CE Starter Kit
+# CE Starter Kit
 
 Basic HTML template for quick and easy project setups.
 
