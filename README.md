@@ -60,4 +60,3 @@ Contributions are welcome! If you have ideas or improvements, feel free to:
    git push origin feature/your-feature-name
    ```
 5. Open a Pull Request.
-```
