@@ -1,6 +1,5 @@
 # CE Starter Kit
-
-Basic HTML template for quick and easy project setups.
+Simple HTML template for quick and easy project setups.
 
 ## Table of Contents
 
